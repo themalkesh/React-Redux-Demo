@@ -1,0 +1,1 @@
+export const API_URL = '/dev/laravel/demoApi/3yapp/public/api/v1.0/';
